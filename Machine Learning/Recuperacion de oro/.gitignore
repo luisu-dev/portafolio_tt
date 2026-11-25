@@ -1,0 +1,20 @@
+# Entornos de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos de trabajo (descargar por separado; ver README)
+data/*.csv
+
+# Archivos locales y del sistema
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
