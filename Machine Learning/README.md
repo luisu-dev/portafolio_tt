@@ -25,3 +25,6 @@
 ## Salidas esperadas
 - Accuracy por modelo en train/valid y resultados finales en test.
 - Comparación contra baseline dummy para validar aprendizaje.
+
+## Otro proyecto
+- [Recuperación de oro](Recuperacion%20de%20oro/README.md) — predicción de recuperación de oro con sMAPE y validación temporal.

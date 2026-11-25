@@ -50,3 +50,6 @@ Este repositorio agrupa notebooks de análisis de datos y machine learning (mate
 ## Sección adicional: Aplicación web (project_tp)
 Este repositorio también contiene una app web previa que genera gráficos a partir de datos de autos (relación odómetro-precio, distribuciones y boxplot por tipo).
 
+
+## Proyecto nuevo
+- [Recuperación de oro](Machine%20Learning/Recuperacion%20de%20oro/README.md): análisis y modelos con validación temporal.
